@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/1100ba7c-0922-4bde-9a6a-02824d014ab4/resourceGroups/csulbmejia_group/providers/Microsoft.Web/sites/csulbmejia",
+  "appService.deploySubpath": "pgio"
+}
